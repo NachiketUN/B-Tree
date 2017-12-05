@@ -1,8 +1,8 @@
-# DSA (Data Structures and Algorithm) Project
+## DSA (Data Structures and Algorithm) Project
 
 B-Tree implementation using Python, with zip code finder as an application for DSA course
 
-## B-Tree Insertion, Deletion, Search Algorithms
+### B-Tree Insertion, Deletion, Search Algorithms
 
 I have referred to Introduction to Algorithms by Thomas Cormen (CLRS) for the algorithms for the operations of the B-Tree
 
