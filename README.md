@@ -1,6 +1,4 @@
-## DSA (Data Structures and Algorithm) Project
-
-B-Tree implementation using Python, with zip code finder as an application for DSA course
+## B-Tree implementation using Python, with zip code finder as an application for DSA course
 
 ### B-Tree Insertion, Deletion, Search Algorithms
 
